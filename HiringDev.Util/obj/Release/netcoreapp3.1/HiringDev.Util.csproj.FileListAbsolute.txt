@@ -1,0 +1,8 @@
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\bin\Release\netcoreapp3.1\HiringDev.Util.deps.json
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\bin\Release\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\bin\Release\netcoreapp3.1\HiringDev.Util.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Release\netcoreapp3.1\HiringDev.Util.csprojAssemblyReference.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Release\netcoreapp3.1\HiringDev.Util.AssemblyInfoInputs.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Release\netcoreapp3.1\HiringDev.Util.AssemblyInfo.cs
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Release\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Release\netcoreapp3.1\HiringDev.Util.pdb

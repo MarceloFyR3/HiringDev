@@ -1,0 +1,13 @@
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.INegocio.deps.json
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.INegocio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.INegocio.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.Dominio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.Dominio.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\bin\Release\netcoreapp3.1\HiringDev.Util.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\obj\Release\netcoreapp3.1\HiringDev.INegocio.csprojAssemblyReference.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\obj\Release\netcoreapp3.1\HiringDev.INegocio.AssemblyInfoInputs.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\obj\Release\netcoreapp3.1\HiringDev.INegocio.AssemblyInfo.cs
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\obj\Release\netcoreapp3.1\HiringDev.INegocio.csproj.CopyComplete
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\obj\Release\netcoreapp3.1\HiringDev.INegocio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.INegocio\obj\Release\netcoreapp3.1\HiringDev.INegocio.pdb

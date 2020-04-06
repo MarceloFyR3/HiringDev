@@ -1,0 +1,11 @@
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\bin\Release\netcoreapp3.1\HiringDev.Dominio.deps.json
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\bin\Release\netcoreapp3.1\HiringDev.Dominio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\bin\Release\netcoreapp3.1\HiringDev.Dominio.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\bin\Release\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\bin\Release\netcoreapp3.1\HiringDev.Util.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\obj\Release\netcoreapp3.1\HiringDev.Dominio.csprojAssemblyReference.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\obj\Release\netcoreapp3.1\HiringDev.Dominio.AssemblyInfoInputs.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\obj\Release\netcoreapp3.1\HiringDev.Dominio.AssemblyInfo.cs
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\obj\Release\netcoreapp3.1\HiringDev.Dominio.csproj.CopyComplete
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\obj\Release\netcoreapp3.1\HiringDev.Dominio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Dominio\obj\Release\netcoreapp3.1\HiringDev.Dominio.pdb

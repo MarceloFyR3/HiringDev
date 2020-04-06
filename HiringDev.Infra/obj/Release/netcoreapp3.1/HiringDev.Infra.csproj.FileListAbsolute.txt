@@ -1,0 +1,17 @@
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Infra.deps.json
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Infra.runtimeconfig.json
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Infra.runtimeconfig.dev.json
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Infra.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Infra.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Dominio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.IRepositorio.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.IRepositorio.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Dominio.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\bin\Release\netcoreapp3.1\HiringDev.Util.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\obj\Release\netcoreapp3.1\HiringDev.Infra.csprojAssemblyReference.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\obj\Release\netcoreapp3.1\HiringDev.Infra.AssemblyInfoInputs.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\obj\Release\netcoreapp3.1\HiringDev.Infra.AssemblyInfo.cs
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\obj\Release\netcoreapp3.1\HiringDev.Infra.csproj.CopyComplete
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\obj\Release\netcoreapp3.1\HiringDev.Infra.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Infra\obj\Release\netcoreapp3.1\HiringDev.Infra.pdb

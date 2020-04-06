@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\bin\Debug\netcoreapp3.1\HiringDev.Util.deps.json
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\bin\Debug\netcoreapp3.1\HiringDev.Util.dll
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\bin\Debug\netcoreapp3.1\HiringDev.Util.pdb
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.AssemblyInfo.cs
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.dll
+C:\Users\marce\source\repos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\bin\Debug\netcoreapp3.1\HiringDev.Util.deps.json
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\bin\Debug\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\bin\Debug\netcoreapp3.1\HiringDev.Util.pdb
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.csprojAssemblyReference.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.AssemblyInfoInputs.cache
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.AssemblyInfo.cs
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.dll
+C:\ProjetosEstudos\HiringDev\HiringDev.Util\obj\Debug\netcoreapp3.1\HiringDev.Util.pdb
